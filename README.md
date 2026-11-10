@@ -1,2 +1,2 @@
 # beecrowd
-Exercícios resolvidos do beecrowd (em progresso)
+Exercícios beecrowd - Python
