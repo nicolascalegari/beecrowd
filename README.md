@@ -1,4 +1,4 @@
 # beecrowd
 Exercícios beecrowd - Python
 
-!(imagens/beecrowd.png)
+(imagens/beecrowd.png)
