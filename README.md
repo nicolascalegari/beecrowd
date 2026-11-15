@@ -1,4 +1,5 @@
 # beecrowd
 Exercícios beecrowd - Python
 
-(imagens/beecrowd.png)
+![Capa](imagens/beecrowd.png)
+
